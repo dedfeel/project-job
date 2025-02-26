@@ -1,0 +1,502 @@
+[
+  {
+    "Profession": "Операциялық менеджер",
+    "Description": "Компания ішіндегі процестерді басқару, жұмыс ағындарын оңтайландыру.",
+    "Average Salary": "300,000-450,000 KZT",
+    "Company": "Business Solutions KZ",
+    "City": "Костанай",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Продавец",
+    "Description": "Тауарларды сату және дүкендерде тұтынушыларға кеңес беру.",
+    "Average Salary": "170,000-250,000 KZT",
+    "Company": "Retail Group",
+    "City": "Семей",
+    "Education": "Орта",
+    "Work Experience": "Тәжірибе қажет емес",
+    "Work Schedule": "Кезектік жұмыс"
+  },
+  {
+    "Profession": "Риэлтор",
+    "Description": "Мүлікті сату және жалға беру, клиенттерге кеңес беру.",
+    "Average Salary": "350,000-500,000 KZT",
+    "Company": "Real Estate Group",
+    "City": "Талдыкорган",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "HR менеджер",
+    "Description": "Қызметкерлерді іріктеу, таңдау және басқару.",
+    "Average Salary": "250,000-400,000 KZT",
+    "Company": "HR Solutions KZ",
+    "City": "Шымкент",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Мобильді қосымша жасаушы",
+    "Description": "Түрлі операциялық жүйелер үшін мобильді қосымшаларды жасау.",
+    "Average Salary": "450,000-700,000 KZT",
+    "Company": "MobileTech Solutions",
+    "City": "Қарағанды",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Редактор",
+    "Description": "Жарияланымға арналған мәтіндерді редакциялау және тексеру.",
+    "Average Salary": "200,000-300,000 KZT",
+    "Company": "MediaWorks KZ",
+    "City": "Алматы",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Жарты жұмыс күні"
+  },
+  {
+    "Profession": "Архитектор-конструктор",
+    "Description": "Құрылыс құрылымдары мен ғимараттарды жобалау.",
+    "Average Salary": "400,000-600,000 KZT",
+    "Company": "BuildPro KZ",
+    "City": "Павлодар",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Техникалық жазушы",
+    "Description": "Техникалық құжаттамаларды жазу және дайындау.",
+    "Average Salary": "250,000-350,000 KZT",
+    "Company": "TechDocs KZ",
+    "City": "Талдыкорган",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Секретарь-референт",
+    "Description": "Жұмыс процестерін ұйымдастыру, құжат айналымы және құжаттаманы жүргізу.",
+    "Average Salary": "180,000-250,000 KZT",
+    "Company": "AdminPro KZ",
+    "City": "Нұр-Сұлтан",
+    "Education": "Арнайы орта",
+    "Work Experience": "1 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Сату маманы",
+    "Description": "Компания өнімдері мен қызметтерін сату, клиенттермен жұмыс.",
+    "Average Salary": "200,000-350,000 KZT",
+    "Company": "SalesTeam KZ",
+    "City": "Алматы",
+    "Education": "Орта",
+    "Work Experience": "1 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Жоба менеджері",
+    "Description": "Жобаларды басқару, орындау мерзімдерін қадағалау.",
+    "Average Salary": "350,000-500,000 KZT",
+    "Company": "Tech Innovations",
+    "City": "Алматы",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "ІТ қолдау маманы",
+    "Description": "Жүйелік қолдау көрсету, техникалық мәселелерді шешу.",
+    "Average Salary": "200,000-300,000 KZT",
+    "Company": "IT Services KZ",
+    "City": "Қарағанды",
+    "Education": "Орта арнайы",
+    "Work Experience": "1 жылдан бастап",
+    "Work Schedule": "Кезектік жұмыс"
+  },
+  {
+    "Profession": "Графикалық дизайнер",
+    "Description": "Дизайн жобаларын жасау, креативті концепциялар дайындау.",
+    "Average Salary": "250,000-400,000 KZT",
+    "Company": "Design Studio KZ",
+    "City": "Тараз",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Қаржы сарапшысы",
+    "Description": "Қаржылық талдау жүргізу, есеп-қисап жасау.",
+    "Average Salary": "400,000-600,000 KZT",
+    "Company": "Finance Group",
+    "City": "Шымкент",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Мұғалім",
+    "Description": "Оқушыларды оқыту, білім беру процесін ұйымдастыру.",
+    "Average Salary": "180,000-250,000 KZT",
+    "Company": "School of Excellence",
+    "City": "Семей",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Журналист",
+    "Description": "Жаңалықтарды жинақтау, мақалалар жазу.",
+    "Average Salary": "200,000-300,000 KZT",
+    "Company": "NewsMedia",
+    "City": "Алматы",
+    "Education": "Жоғары",
+    "Work Experience": "1 жылдан бастап",
+    "Work Schedule": "Жарты жұмыс күні"
+  },
+  {
+    "Profession": "Маркетолог",
+    "Description": "Нарық зерттеулері жүргізу, жарнамалық стратегияларды құру.",
+    "Average Salary": "300,000-450,000 KZT",
+    "Company": "Marketing KZ",
+    "City": "Атырау",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Бухгалтер",
+    "Description": "Қаржылық есеп жүргізу, салықтар мен төлемдерге есеп жүргізу.",
+    "Average Salary": "250,000-350,000 KZT",
+    "Company": "Accounting Pro KZ",
+    "City": "Ақтөбе",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Кеңесші",
+    "Description": "Компанияларға кеңес беру, мәселелерді шешу.",
+    "Average Salary": "500,000-700,000 KZT",
+    "Company": "Consulting Solutions",
+    "City": "Қостанай",
+    "Education": "Жоғары",
+    "Work Experience": "5 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Жабдықтау менеджері",
+    "Description": "Компания үшін жабдықтарды сатып алу, жеткізілімдерді ұйымдастыру.",
+    "Average Salary": "300,000-450,000 KZT",
+    "Company": "Supply Chain KZ",
+    "City": "Көкшетау",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Құқық қорғаушы",
+    "Description": "Заңды кеңес беру, клиенттерді қорғау.",
+    "Average Salary": "400,000-600,000 KZT",
+    "Company": "Law Partners",
+    "City": "Нұр-Сұлтан",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Логист",
+    "Description": "Жүктерді тасымалдауды ұйымдастыру, жеткізілімдерге жауап беру.",
+    "Average Salary": "250,000-350,000 KZT",
+    "Company": "Logistics KZ",
+    "City": "Талдықорған",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Танымал блогер",
+    "Description": "Әлеуметтік желілерде контент жасау, аудиториямен байланыс орнату.",
+    "Average Salary": "300,000-500,000 KZT",
+    "Company": "Social Media KZ",
+    "City": "Алматы",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Ресторан әкімшісі",
+    "Description": "Мейрамхана жұмысын басқару, қызмет көрсету сапасын қамтамасыз ету.",
+    "Average Salary": "200,000-300,000 KZT",
+    "Company": "Restaurant Pro",
+    "City": "Шымкент",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Инженер-конструктор",
+    "Description": "Құрылыс құрылымдарын жобалау және есептеу.",
+    "Average Salary": "400,000-600,000 KZT",
+    "Company": "Engineering Solutions",
+    "City": "Астана",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Кеңес беру маманы",
+    "Description": "Кәсіпкерлерге бизнесті дамыту бойынша кеңес беру.",
+    "Average Salary": "500,000-700,000 KZT",
+    "Company": "Business Growth",
+    "City": "Қарағанды",
+    "Education": "Жоғары",
+    "Work Experience": "5 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Әлеуметтік қызметкер",
+    "Description": "Қиын жағдайдағы адамдарға көмек көрсету, олардың өмір сүру жағдайларын жақсарту.",
+    "Average Salary": "150,000-250,000 KZT",
+    "Company": "Social Help",
+    "City": "Тараз",
+    "Education": "Жоғары",
+    "Work Experience": "1 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Туризм менеджері",
+    "Description": "Туристік саяхаттарды ұйымдастыру, клиенттермен жұмыс.",
+    "Average Salary": "300,000-400,000 KZT",
+    "Company": "Travel Experts",
+    "City": "Атырау",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Автокөлік механигі",
+    "Description": "Автокөліктердің техникалық қызмет көрсету және жөндеу.",
+    "Average Salary": "150,000-250,000 KZT",
+    "Company": "AutoFix KZ",
+    "City": "Талдықорған",
+    "Education": "Орта арнайы",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Кезектік жұмыс"
+  },
+  {
+    "Profession": "Дизайнер-иллюстратор",
+    "Description": "Кітаптар, журналдар және басқа баспа өнімдері үшін иллюстрациялар жасау.",
+    "Average Salary": "250,000-400,000 KZT",
+    "Company": "Art Studio",
+    "City": "Алматы",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Сәулетші",
+    "Description": "Ғимараттар мен құрылыс жобаларын жасау, құрылыс жоспарларын әзірлеу.",
+    "Average Salary": "350,000-500,000 KZT",
+    "Company": "Architecture Pro",
+    "City": "Талдықорған",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Системалық әкімші",
+    "Description": "Жүйелер мен желілерді басқару, серверлерді конфигурациялау.",
+    "Average Salary": "400,000-600,000 KZT",
+    "Company": "IT Support KZ",
+    "City": "Қарағанды",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Маркетинг директор",
+    "Description": "Маркетинг стратегияларын жасау, кампанияларды басқару.",
+    "Average Salary": "500,000-700,000 KZT",
+    "Company": "Marketing Solutions",
+    "City": "Алматы",
+    "Education": "Жоғары",
+    "Work Experience": "5 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Операциялық директор",
+    "Description": "Компанияның ішкі процестерін басқару, операцияларды ұйымдастыру.",
+    "Average Salary": "600,000-800,000 KZT",
+    "Company": "Operational Excellence",
+    "City": "Нұр-Сұлтан",
+    "Education": "Жоғары",
+    "Work Experience": "5 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Құқық кеңесшісі",
+    "Description": "Құқықтық кеңес беру, заң мәселелері бойынша клиенттерге қызмет көрсету.",
+    "Average Salary": "400,000-550,000 KZT",
+    "Company": "Legal Advisors",
+    "City": "Шымкент",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Кеңсе менеджері",
+    "Description": "Офистің жұмысын ұйымдастыру, қызметкерлердің жұмыс күнін басқару.",
+    "Average Salary": "180,000-250,000 KZT",
+    "Company": "Office Solutions",
+    "City": "Қостанай",
+    "Education": "Арнайы орта",
+    "Work Experience": "1 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Электрик",
+    "Description": "Электр қондырғыларын орнату және жөндеу, қауіпсіздікті қамтамасыз ету.",
+    "Average Salary": "250,000-350,000 KZT",
+    "Company": "Power Solutions",
+    "City": "Павлодар",
+    "Education": "Орта арнайы",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Кезектік жұмыс"
+  },
+  {
+    "Profession": "Жауапты тұлға",
+    "Description": "Компанияның құжаттарын және есептерін басқару, заңды мәселелерге жауап беру.",
+    "Average Salary": "300,000-450,000 KZT",
+    "Company": "Legal Hub",
+    "City": "Атырау",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Медициналық маман",
+    "Description": "Пациенттерді емдеу, диагностика жасау және дәрігерлік кеңес беру.",
+    "Average Salary": "350,000-500,000 KZT",
+    "Company": "HealthCare Services",
+    "City": "Ақтөбе",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Жоғары оқу орны оқытушысы",
+    "Description": "Студенттерге сабақ беру, ғылыми жұмыстар жүргізу.",
+    "Average Salary": "300,000-450,000 KZT",
+    "Company": "University of Knowledge",
+    "City": "Алматы",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Құрылысшы",
+    "Description": "Құрылыс жұмыстарын жүргізу, құрылыс алаңын басқару.",
+    "Average Salary": "150,000-250,000 KZT",
+    "Company": "Construction KZ",
+    "City": "Көкшетау",
+    "Education": "Арнайы орта",
+    "Work Experience": "1 жылдан бастап",
+    "Work Schedule": "Кезектік жұмыс"
+  },
+  {
+    "Profession": "Ретушер",
+    "Description": "Фотосуреттерді өңдеу, визуалды жақсартулар енгізу.",
+    "Average Salary": "200,000-300,000 KZT",
+    "Company": "Photo Studio",
+    "City": "Тараз",
+    "Education": "Жоғары",
+    "Work Experience": "1 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Аудармашы",
+    "Description": "Тілдерді аудару, халықаралық келіссөздер жүргізу.",
+    "Average Salary": "250,000-350,000 KZT",
+    "Company": "Language Solutions",
+    "City": "Қарағанды",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Жарты жұмыс күні"
+  },
+  {
+    "Profession": "Эколог",
+    "Description": "Экологиялық зерттеулер жүргізу, табиғи ресурстарды қорғау.",
+    "Average Salary": "300,000-450,000 KZT",
+    "Company": "Eco KZ",
+    "City": "Шымкент",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Клиенттермен жұмыс жөніндегі менеджер",
+    "Description": "Компания қызметтерін клиенттерге ұсыну, сұрақтарына жауап беру.",
+    "Average Salary": "200,000-300,000 KZT",
+    "Company": "Customer Care KZ",
+    "City": "Алматы",
+    "Education": "Орта",
+    "Work Experience": "1 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Жаңа өнімдер жөніндегі менеджер",
+    "Description": "Жаңа өнімдер мен қызметтерді әзірлеу, нарыққа шығару.",
+    "Average Salary": "400,000-600,000 KZT",
+    "Company": "Product Launchers",
+    "City": "Нұр-Сұлтан",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Веб-разработчик",
+    "Description": "Веб-сайттар жасау, бағдарламалау, қолданушы интерфейсімен жұмыс.",
+    "Average Salary": "350,000-500,000 KZT",
+    "Company": "WebTech",
+    "City": "Павлодар",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Икемді"
+  },
+  {
+    "Profession": "Әкімшілік көмекші",
+    "Description": "Әкімшілік жұмыстарды жүргізу, құжаттарды ұйымдастыру.",
+    "Average Salary": "180,000-250,000 KZT",
+    "Company": "Admin Plus",
+    "City": "Талдықорған",
+    "Education": "Арнайы орта",
+    "Work Experience": "1 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  },
+  {
+    "Profession": "Редактор",
+    "Description": "Жарияланымға арналған мәтіндерді редакциялау және тексеру.",
+    "Average Salary": "200,000-300,000 KZT",
+    "Company": "MediaWorks KZ",
+    "City": "Алматы",
+    "Education": "Жоғары",
+    "Work Experience": "2 жылдан бастап",
+    "Work Schedule": "Жарты жұмыс күні"
+  },
+  {
+    "Profession": "Архитектор-конструктор",
+    "Description": "Құрылыс құрылымдары мен ғимараттарды жобалау.",
+    "Average Salary": "400,000-600,000 KZT",
+    "Company": "BuildPro KZ",
+    "City": "Павлодар",
+    "Education": "Жоғары",
+    "Work Experience": "3 жылдан бастап",
+    "Work Schedule": "Толық жұмыс күні"
+  }
+]

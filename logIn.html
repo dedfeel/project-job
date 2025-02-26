@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="logIn.css">
+</head>
+<body>
+    <header id="header">
+        <a href="#"><img class="logoIMG" src="img/logo.png" alt=""></a>
+        <a href="signIn.html" id="headBtn1">Кіру</a>
+        <select class="select" name="" id="">
+            <option class="selectKz" value="">Қаз</option>
+            <option class="selectKz" value="">Рус</option>
+        </select>
+    </header>
+    <main>
+        <div class="login-box">
+            <div class="login-header">
+                <h1>Тіркелу </h1>
+            </div>
+
+            <form action="">
+
+                <div class="input-box">
+                    <input id="name" type="text" class="input-field" placeholder="Есіміңіз">
+                </div>
+    
+                <div class="input-box">
+                    <input id="surname" type="text" class="input-field" placeholder="Тегіңіз">
+                    
+                </div>
+                <p class="p" >Жыныс</p>
+                <div class="divCheckBox">
+                    <label>
+                        <input class="inputBox" type="radio" name="gender">
+                        <div class="gender-label">Ұл</div>
+                    </label>
+                    <label>
+                        <input class="inputBox" type="radio" name="gender">
+                        <div class="gender-label">Қыз</div>
+                    </label>
+                </div>
+                
+    
+                <div class="input-box">
+                    <input id="tel" type="number" class="input-field" placeholder="+7 ... ... .. .." >
+                </div>
+    
+                <div class="input-box">
+                    <input id="password" type="password" class="input-field" placeholder="Password (Кемінде 5 таңба болсын)" >
+                </div>
+    
+                <div class="input-box">
+                    <input id="city" type="text" class="input-field" placeholder="Тұратын қалаңыз" >
+                </div>
+                
+                <label for="day">Туылған күніңіз:</label>
+    
+                <div class="input-box">
+                    <input id="day" type="number" class="input-field" >
+                </div>
+    
+                <label >Туылған айыңыз:</label>
+    
+                <div class="input-box">
+                    <input id="month" type="text" class="input-field" >
+                </div>
+    
+                <label >Туылған жылыңыз:</label>
+    
+                <div class="input-box">
+                    <input id="year" type="number" class="input-field" >
+                </div>           
+                
+                <div class="forgot">
+                    <section>
+                        <p>Аккаунт бар ма?<a href="signIn.html"> Кіру!</a></p>
+                    </section>
+                </div>
+                <div class="input-submit">
+                    <button id="btn" class="submit-btn">Тіркелу</button>
+                    
+                </div>
+            </form> 
+
+        </div>
+    </main>
+
+
+    <script src="logIn.js"></script>
+</body>
+</html>

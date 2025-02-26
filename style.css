@@ -1,0 +1,339 @@
+*{
+    margin: 0;  
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    height: 100%;
+    background-color: rgb(239, 239, 239);
+}
+
+#header{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    z-index: 1000;
+    transition: background-color 0.3s ease, height 0.3s ease;
+}
+
+#header.scrolled {
+    background-color: rgb(204, 204, 204);
+    height: 80px;
+}
+
+.logoIMG{
+    height: 80px;
+    margin-left: 50px;
+    
+}
+
+.profilImg{
+    display: none;
+    height: 60px;
+    margin-left: 70%;
+    cursor: pointer;
+}
+
+
+#asideProfil {
+    display: none;
+    position: absolute;
+    z-index: 100;
+    right: 0;
+    top: 60px;
+    width: 25%;
+    height: 500px;
+    background-color: rgb(239, 239, 239);
+    border-radius: 50px 0 0 50px;
+    transition: right 2s ease-in-out;
+    
+}
+.x{ 
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 7%;
+    cursor: pointer;
+}
+
+.imgSom{
+    width: 50%;
+    margin-left: 25%;
+}
+.accountCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card1{
+    margin-top: 10px;
+}
+
+.card2{
+    padding: 5% 30%;
+    margin-top: 10px;
+    
+}
+
+#getOut{
+    position: absolute;
+    bottom: 5%;
+    right: 40%;
+}
+
+
+
+
+
+#headBtn1{
+    color: white;
+    border: solid  white 1px;
+    border-radius: 50px;
+    text-decoration: none;
+    height: 30px;
+    padding: 16px 30px 8px 30px;
+    margin-left: 65%
+}
+
+#headBtn1:hover{
+    border-color: rgb(99, 163, 110);
+    color:rgb(99, 163, 110);
+    transition-duration: 0.5s;
+}
+
+#headBtn2{
+    color: white;
+    text-decoration: none;
+    border: solid  white 1px;
+    border-radius: 50px;
+    height: 30px;
+    padding: 16px 30px 8px 30px;
+    margin-left: 1%;
+
+}
+
+#headBtn2:hover{
+    border-color: rgb(99, 163, 110);
+    color:rgb(99, 163, 110);
+    transition-duration: 0.5s;
+}
+
+.select{
+    border: none;
+    background-color: rgba(24, 10, 64, 0);
+    color: white;
+    margin-left: 3%;
+}
+
+.selectKz{
+    background-color: rgb(69, 111, 76);
+}
+
+.section1fon{
+    filter: brightness(50%);
+    width: 100%;
+    height: 700px;
+    
+}
+
+
+
+.section1h1{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 30%;
+    left: 4%;
+    font-size: 2.5em;
+}
+
+#section1input{
+    width: 30%;
+    height: 50px;
+    font-size: 1.2em;
+    position: absolute;
+    top: 45%; 
+    left: 30%; 
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    z-index: 1;
+    color: rgb(0, 0, 0);
+    
+}
+
+#section1Btn{
+    padding: 13px 3% 13px 3%;
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: rgb(99, 163, 110) ;
+    font-size: 1.2em;
+    position: absolute;
+    left: 63%;
+    top: 45%;
+    z-index: 1;
+    border: none;
+    color: rgb(255, 255, 255);
+}
+
+#section1Btn:hover{
+    background-color: rgb(84, 138, 93) ;
+    transition-duration: 0.5s;
+}
+
+
+.boss{
+    font-size: 1.2em;
+    position: absolute;
+    top: 55%; 
+    left: 30%; 
+    border: none;
+    z-index: 1;
+    color: white;
+}
+
+.boss:hover{
+    border-color: rgb(99, 163, 110);
+    color:rgb(99, 163, 110);
+    transition-duration: 0.5s;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.info{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, auto);
+    column-gap: 10%;
+    width: 50%;
+    position: absolute;
+    top: 80%;
+}
+.inf{
+    color: white;
+    font-size: 1.2em;
+}
+.information{
+    color: white;
+    font-size: 2em;
+}
+
+
+
+
+/* section2 */
+.section2{
+    position: relative;
+    margin: 0 10%;   
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+
+.section4Div1{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    
+
+}
+
+
+.section2h1{
+    margin:  50px 0 ;
+    font-size: 2em;
+}
+
+
+.divVacancy{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border:  1px solid rgb(127, 127, 127);
+    padding: 20px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: black;
+    border-left: solid 25px rgb(99, 163, 110);
+    
+}
+.divImg{
+    width: 20%;
+}
+
+.marketing{
+    transform: scale(2);
+}
+
+
+
+
+
+.section4{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.section4Div{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 50px;
+    text-decoration: none;
+    color: black;
+
+}
+.section4h1{
+    font-size: 2em;
+}
+
+.card-button{
+    padding: 10px 20px;
+    background-color: rgb(99, 163, 110) ;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.kzt{
+    color: rgb(99, 163, 110) ;
+}
+
+.card-content:hover{
+    transform: scale(1.03);
+    transition-duration: 0.5s;
+}
+
+.card-content{
+    border: 1px rgb(151, 151, 151) solid;
+    padding: 10px 100px 10px 20px;
+    border-radius: 20px;
+    transition-duration: 0.5s;
+}
+
+.section4-a{
+    text-decoration: none;
+    color: rgb(99, 163, 110);
+    margin-top: 50px;
+}
+
+.section4-a:hover{
+    color: rgb(59, 98, 65);
+}
+
+
+
+
+.footer{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(99, 163, 110);
+    margin-top: 50px;
+} 
