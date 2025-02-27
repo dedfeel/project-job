@@ -43,9 +43,7 @@ function saveToAccount() {
         alert('Сәтті тіркелдіңіз аккаунтыңызға кіріңіз')
     }else{
         alert('Номермен парольді дұрыс толтырыныз толтырыныз')
-
     }
-        
 }
 
-// localStorage.clear()
+// localStorage.clear() 

@@ -333,7 +333,28 @@ body{
 
 .footer{
     width: 100%;
-    height: 500px;
+    height: 300px;
     background-color: rgb(99, 163, 110);
     margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
 } 
+
+
+
+.footer-li{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.text{
+    margin-top: 3%;
+    color: white;
+}
+
+.footerLogo{
+    width: 20%;
+    margin-left: 38%;
+}
